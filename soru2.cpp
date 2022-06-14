@@ -5,7 +5,7 @@ using namespace std::chrono;
 using namespace std;
 
 double multiplyPrimes(const double& n1, const double& n2);
-void factorisation(const int& number);
+void factorisation(const long float& number);
 
 int main(int argc, char** argv)
 {
